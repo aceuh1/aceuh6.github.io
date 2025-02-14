@@ -1,0 +1,35 @@
+
+body{
+  padding: 25px;
+    background-color: #8b3dff;
+    text-align: center;
+}
+
+
+section {
+    display:inline-block;
+    border-radius: 30px;
+    max-width: 350px;  
+   
+   
+    border-style:none; 
+    padding:30px;
+    
+    margin:20px;
+    background-color: #F5F5F5;
+    text-align: center;
+    box-shadow: 30px 30px #ae81f1;
+}
+
+h1{
+color: white;
+padding: 20px;
+box-shadow: red 10px 5px ;
+
+}
+footer{
+margin:30px;
+}
+footer p {
+  color: white;
+}
